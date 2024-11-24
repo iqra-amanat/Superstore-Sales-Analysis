@@ -1,5 +1,5 @@
 # Superstore-Sales-Analysis
-#Project Overview
+# Project Overview
 
 This project analyzes sales data to provide insights on:
 
@@ -15,11 +15,14 @@ Sales distribution across categories and sub-categories
 
 ## Key Features
 
-### Data Cleaning: Handling missing values.
+### Data Cleaning: 
+Handling missing values.
 
-### Aggregation and Grouping: Summarizing sales by customer, segment, region, and category.
+### Aggregation and Grouping:
+Summarizing sales by customer, segment, region, and category.
 
-### Visualizations: Bar charts to showcase top customers, sales by segment, region, category, and sub-category.
+### Visualizations:
+Bar charts to showcase top customers, sales by segment, region, category, and sub-category.
 
 
 
